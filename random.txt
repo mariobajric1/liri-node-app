@@ -1,0 +1,1 @@
+ Type: "node liri.js" + One of the below commands! ---,  1.  spotify-this-song + "song name", 2.   my-tweets + username, 3.   movie-this + "movie name", ---, For Example: node liri.js spotify-this-song "Got Money", ---, --> Then hit enter <---
